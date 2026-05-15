@@ -1,0 +1,14 @@
+{
+  "name": "Pup Break",
+  "short_name": "Pup Break",
+  "description": "AR dog walking break concept demo",
+  "start_url": "./hackathon.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ea",
+  "theme_color": "#fff7ea",
+  "icons": [
+    { "src": "./pup-break-icon.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
